@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<patients>
+    <patient>
+        <name>shiny</name>
+        <age>20</age>
+        <Id>23456</Id>
+        <phoneNumber>456788</phoneNumber>
+        <address>hjkk</address>
+    </patient>
+</patients>
