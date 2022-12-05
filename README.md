@@ -4,7 +4,7 @@
 # Project : CRUD Project ( Helathcare )
 
 * Name : 😄 Chaimae Binjach 😄
-* Neptun code : 😄 GV6WH9  😄
+
 
 ## Project structure
 
